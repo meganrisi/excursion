@@ -1,9 +1,15 @@
 
-/*Main Header*/
+/* Main Header */
 h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+/* Footer */
+.footer {
+  text-align: right;
+  color: gray;
 }
