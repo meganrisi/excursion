@@ -1,6 +1,7 @@
 /* Background */
-html{
+html, img {
   background-color: black;
+  text-align: center;
 }
 
 /* Main Header */
@@ -28,7 +29,7 @@ h3 {
   text-align: center;
 }
 
-h4 {
+li {
   font-family: Verdana;
   font-weight: normal;
   font-size: 16px;
