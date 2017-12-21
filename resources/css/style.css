@@ -1,3 +1,7 @@
+/* Background */
+html{
+  background-color: black;
+}
 
 /* Main Header */
 h1 {
@@ -8,8 +12,32 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+h4 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+}
+
 /* Footer */
-.footer {
+#footer {
   text-align: right;
   color: gray;
 }
